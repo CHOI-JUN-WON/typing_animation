@@ -6,7 +6,7 @@
 
 ----
 # 설치방법
-* <script src="https://raw.githubusercontent.com/CHOI-JUN-WON/typinganimation/refs/heads/main/typingaanimation.js"></script>
+* <script src="https://choi-jun-won.github.io/typing_animation/typingaanimation.js"></script>
 ----
 # 사용방법
 * 1. 선언
