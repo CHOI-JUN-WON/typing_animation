@@ -1,8 +1,9 @@
 
 ----
 # 타이핑하는 효과를 낼수있는 애니메이션 클레스입니다.
-![녹음 2025-11-23 210756](https://github.com/user-attachments/assets/ccd793e1-7fcd-4927-b374-9efdecb34bf0)
 * 예시
+![녹음 2025-11-23 210756](https://github.com/user-attachments/assets/ccd793e1-7fcd-4927-b374-9efdecb34bf0)
+
 
 ----
 # 설치방법
